@@ -5,3 +5,5 @@ if a>b: diff = (a-b)
     print diff
 else diff = (b-a)
     print diff
+    
+    print "OK"
