@@ -1,3 +1,7 @@
 a = 1
 b = 2
-print (a+b)
+
+if a>b: diff = (a-b)
+    print diff
+else diff = (b-a)
+    print diff
